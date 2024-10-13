@@ -1,2 +1,4 @@
 # A WIP Wii Shop Revival.
-<p style="color: black">press <kbd>Ctrl</kbd> + <kbd>R</kbd> to access the secret github repo!!1
+<img src="https://img.shields.io/discord/1289212464973479996?logo=discord&logoColor=white" href="https://discord.gg/SnGzts29Rd">&nbsp;<img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fshsrv.ct8.pl%2Foss%2Fserv&preset=HTML%204.01%20Transitional%2C%20URL%20%2F%20XHTML%201.0%20Transitional%2C%20URL">&nbsp;<img src="https://img.shields.io/website?url=https%3A%2F%2Fshsrv.ct8.pl" alt="web status">&nbsp;<img alt="GitHub followers" src="https://img.shields.io/github/followers/YetAnotherWSC?style=flat">&nbsp;<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/YetAnotherWSC?style=flat&color=yellow">&nbsp;<img alt="license" src="https://img.shields.io/badge/license-GPLv3-GPLv3?style=flat&logo=GNU">
+<hr>
+Press <code>Alt</code> + <code>F4</code> to access the secret repo!!1
